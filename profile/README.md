@@ -9,7 +9,7 @@
 ## ✈️ 스마트 항공 기지
 | Repository | 설명 |
 |------|------|
-| [Naval_Air_Command_App](https://github.com/KBitone-Company/Naval_Air_Command_App) | 모바일 앱 |
+| [SmartAirBase_App](https://github.com/KBitone-Company/SmartAirBase_App) | 모바일 앱 | 
 
 ## 🏪 KB AppStore
 | Repository | 설명 |
