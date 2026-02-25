@@ -1,24 +1,22 @@
-# 🏢 KBitone Projects
+# KBitone Projects
+
+<br>
 
 ## 📦 NIA 5G 육군/19B/해병
-| Repository | 설명 |
-|------|------|
-| [KLINK_STD_Server](https://github.com/KBitone-Company/KLINK_STD_Server) | 서버 |
-| [KLINK_STD_APP](https://github.com/KBitone-Company/KLINK_STD_APP) | 모바일 앱 |
+
+[![Server](https://img.shields.io/badge/KLINK_STD_Server-서버-blue?style=for-the-badge&logo=node.js)](https://github.com/KBitone-Company/KLINK_STD_Server)
+[![App](https://img.shields.io/badge/KLINK_STD_APP-모바일앱-green?style=for-the-badge&logo=android)](https://github.com/KBitone-Company/KLINK_STD_APP)
 
 ## ✈️ 스마트 항공 기지
-| Repository | 설명 |
-|------|------|
-| [SmartAirBase_App](https://github.com/KBitone-Company/SmartAirBase_App) | 모바일 앱 | 
+
+[![App](https://img.shields.io/badge/SmartAirBase_App-모바일앱-green?style=for-the-badge&logo=android)](https://github.com/KBitone-Company/SmartAirBase_App)
 
 ## 🏪 KB AppStore
-| Repository | 설명 |
-|------|------|
-| [KB_AppStore](https://github.com/KBitone-Company/KB_AppStore) | 앱스토어 |
+
+[![AppStore](https://img.shields.io/badge/KB_AppStore-앱스토어-orange?style=for-the-badge&logo=apple)](https://github.com/KBitone-Company/KB_AppStore)
 
 ## 💬 KB Messenger
-| Repository | 설명 |
-|------|------|
-| [KB_Messenger](https://github.com/KBitone-Company/KB_Messenger) | 서버 |
-| [KB_Messenger_Mobile](https://github.com/KBitone-Company/KB_Messenger_Mobile) | 모바일 앱 |
-| [KB_Messenger_Desktop](https://github.com/KBitone-Company/KB_Messenger_Desktop) | 데스크탑 앱 |
+
+[![Server](https://img.shields.io/badge/KB_Messenger-서버-blue?style=for-the-badge&logo=node.js)](https://github.com/KBitone-Company/KB_Messenger)
+[![Mobile](https://img.shields.io/badge/KB_Messenger_Mobile-모바일앱-green?style=for-the-badge&logo=android)](https://github.com/KBitone-Company/KB_Messenger_Mobile)
+[![Desktop](https://img.shields.io/badge/KB_Messenger_Desktop-데스크탑-purple?style=for-the-badge&logo=windows)](https://github.com/KBitone-Company/KB_Messenger_Desktop)
