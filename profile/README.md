@@ -1,12 +1,12 @@
 # 🏢 KBitone Projects
 
-## 📦 KLINK STD
+## 📦 NIA 5G 육군/19B/해병
 | Repository | 설명 |
 |------|------|
 | [KLINK_STD_Server](https://github.com/KBitone-Company/KLINK_STD_Server) | 서버 |
 | [KLINK_STD_APP](https://github.com/KBitone-Company/KLINK_STD_APP) | 모바일 앱 |
 
-## ✈️ 해군항공사령부
+## ✈️ 스마트 항공 기지
 | Repository | 설명 |
 |------|------|
 | [Naval_Air_Command_App](https://github.com/KBitone-Company/Naval_Air_Command_App) | 모바일 앱 |
