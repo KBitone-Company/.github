@@ -42,6 +42,8 @@ blue / green / orange / purple / red / yellow / lightgrey / brightgreen
 ## ✈️ 스마트 항공 기지
 
 [![App](https://img.shields.io/badge/SmartAirBase_App-모바일앱-green?style=for-the-badge&logo=android)](https://github.com/KBitone-Company/SmartAirBase_App)
+[![KBSmartFactory](https://img.shields.io/badge/KBSmartFactory-WMS-orange?style=for-the-badge&logo=warehouse&logoColor=white)](https://github.com/KBitone-Company/KBSmartFactory)
+
 
 ## 🏪 KB AppStore
 
