@@ -42,7 +42,6 @@ blue / green / orange / purple / red / yellow / lightgrey / brightgreen
 ## ✈️ 스마트 항공 기지
 
 [![App](https://img.shields.io/badge/SmartAirBase_App-모바일앱-green?style=for-the-badge&logo=android)](https://github.com/KBitone-Company/SmartAirBase_App)
-[![KBSmartFactory](https://img.shields.io/badge/KBSmartFactory-WMS-orange?style=for-the-badge&logo=warehouse&logoColor=white)](https://github.com/KBitone-Company/KBSmartFactory)
 
 
 ## 🏪 KB AppStore
@@ -51,6 +50,4 @@ blue / green / orange / purple / red / yellow / lightgrey / brightgreen
 
 ## 💬 KB Messenger
 
-[![Server](https://img.shields.io/badge/KB_Messenger-서버-blue?style=for-the-badge&logo=node.js)](https://github.com/KBitone-Company/KB_Messenger)
-[![Mobile](https://img.shields.io/badge/KB_Messenger_Mobile-모바일앱-green?style=for-the-badge&logo=android)](https://github.com/KBitone-Company/KB_Messenger_Mobile)
-[![Desktop](https://img.shields.io/badge/KB_Messenger_Desktop-데스크탑-purple?style=for-the-badge&logo=windows)](https://github.com/KBitone-Company/KB_Messenger_Desktop)
+
